@@ -1,0 +1,40 @@
+#index{
+	background-image: url("https://www.domusvi.es/wp-content/uploads/2017/05/musica1.jpg");
+	background-size: cover;
+}
+
+#color{
+	color:#2ca017;
+	
+}
+.contenido{
+	margin-left: 30%;
+}
+#valor{
+	display: inline-block;
+	width: 40%;
+	margin-top: 2%;
+}
+
+#nombre{
+	display: inline-block;
+	width: 30%;
+	margin-top: 2%;
+}
+
+#btn{
+	margin-top: 13%;
+	margin-left: -57%;
+	width: 30%;
+	
+}
+#titulo{
+	font-family: impact;
+	letter-spacing: 2px;
+	font-size: 300%;
+}
+#btnCrear{
+	width: 100%;
+	margin-top: 2%;
+	height: 40px;
+}
